@@ -1,1 +1,1 @@
-## End to End Machine Learning Project Practice
+## END TO END MACHINE LEARNING PROJECT
